@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60% height:30%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height:30%" />
 </div>  
   
 
