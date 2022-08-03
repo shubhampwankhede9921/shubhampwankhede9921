@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   
 
 <br/>  
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 
 ## My Skill Set  
@@ -125,4 +126,4 @@ Here are some ideas to get you started:
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
