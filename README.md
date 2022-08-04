@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on cryptocurrency tracker.  
   
 
-- 🌱 I’m currently working on my problem solving skill.  
+- 🌱 I’m currently learning big data analysis.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
